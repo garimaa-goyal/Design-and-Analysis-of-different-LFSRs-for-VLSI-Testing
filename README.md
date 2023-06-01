@@ -14,7 +14,7 @@
 
 #### Test vectors using Dominance: [{1,1,0,0},{0,0,0,1},{1,0,0,0},{0,1,0,0}].
 
-###Results
+### Results
 |Type of LFSR| Number of clock cycles|
 |------------|-----------------------|
 |Primitive polynomial|12|
